@@ -13,7 +13,7 @@ const Grid = styled.div`
 `
 
 const GridCell = styled.div`
-  display: flex;
+  display: block;
   flex-direction: column;
   justify-content: center;
   align-items: center;
